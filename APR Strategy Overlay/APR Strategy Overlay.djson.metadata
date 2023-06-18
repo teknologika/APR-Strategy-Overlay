@@ -1,0 +1,21 @@
+{
+  "Category": null,
+  "Title": "APR Strategy Overlay",
+  "Description": null,
+  "Author": null,
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 1080.0,
+  "Height": 200.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": [
+    0
+  ]
+}
